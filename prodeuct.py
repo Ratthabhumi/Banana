@@ -1,2 +1,2 @@
-print('Coffee')
-print('tea')
+print('6')
+print('7')

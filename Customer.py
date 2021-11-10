@@ -1,2 +1,2 @@
-print('Project')
-print('Peter')
+print('1')
+print('2')
