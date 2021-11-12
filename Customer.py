@@ -1,6 +1,7 @@
 print('1')
 print('2')
 
-A = 10
-B = 20
-print(A+B)
+A = int(3)
+B = int(20)
+C = float(3.0)
+print(A+B+C)
