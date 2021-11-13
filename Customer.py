@@ -5,3 +5,6 @@ A = int(3)
 B = int(20)
 C = float(3.0)
 print(A+B+C)
+
+if B > A:
+  print(C)
