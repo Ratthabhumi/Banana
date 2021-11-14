@@ -7,4 +7,6 @@ C = float(3.0)
 print(A+B+C)
 
 if B > A:
+  print(A)
+  print(B)
   print(C)
