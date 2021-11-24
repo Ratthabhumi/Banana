@@ -7,4 +7,4 @@ C = float(3.0)
 
 A = 10
 B = 20
-print(A+B)
+print(A+B+C)
